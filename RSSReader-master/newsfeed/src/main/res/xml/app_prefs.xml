@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/general_settings">
+
+        <EditTextPreference android:key="feed_url" android:title="@string/title_feedurl_preference"
+            android:summary="@string/summary_feeedurl_preference"
+            android:dialogTitle="@string/dialog_title_feedurl_preference"
+            android:defaultValue="@string/default_feed_url"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>

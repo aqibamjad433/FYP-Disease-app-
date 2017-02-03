@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RSSReader</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="action_browser">Show in browser</string>
+    <string name="general_settings">General settings</string>
+
+    <string name="title_feedurl_preference">Feed URL</string>
+    <string name="summary_feeedurl_preference">Here you can enter another valid RSS feed url to check</string>
+    <string name="dialog_title_feedurl_preference">Edit feed URL</string>
+
+    <string name="default_feed_url">https://www.geo.tv/rss/1/6?format=xml</string>
+
+    <string name="title_activity_settings">Settings</string>
+</resources>
